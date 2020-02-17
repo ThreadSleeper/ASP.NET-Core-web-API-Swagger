@@ -5,7 +5,7 @@ Simple ASP.NET Core web API application with Swagger use case.
 1. Clone the repository
 2. Run the application:
 
-```toml
+```
   cd ASP.NET-Core-web-API-Swagger/
   
   dotnet restore
